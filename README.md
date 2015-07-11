@@ -383,3 +383,4 @@ $('#input-id').rating('create', {disabled: true});
 ## License
 
 **bootstrap-star-rating** is released under the BSD 3-Clause License. See the bundled `LICENSE.md` for details.# chimehack
+# chimehack
